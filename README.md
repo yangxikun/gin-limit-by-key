@@ -19,8 +19,8 @@ package main
 
 import (
     limit "github.com/yangxikun/gin-limit-by-key"
-	"github.com/gin-gonic/gin"
-	"golang.org/x/time/rate"
+    "github.com/gin-gonic/gin"
+    "golang.org/x/time/rate"
 )
 
 func main() {
