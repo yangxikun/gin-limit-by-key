@@ -1,5 +1,5 @@
 # Description
-An in-memory Gin middleware to limit access rate by custom key.
+An in-memory Gin middleware to limit access rate by custom key and rate.
 
 It depends on two library:
 
